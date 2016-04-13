@@ -1,0 +1,5 @@
+If you searched for ``Symbol not found: _stg_MUT_ARR_PTRS_DIRTY_info'',
+you are in right place, maybe.
+
+Short answer: just add ``-lHSrts'' to your ghc command, and of course
+you are free to add other.
